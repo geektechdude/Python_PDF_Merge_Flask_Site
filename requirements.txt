@@ -1,0 +1,6 @@
+flask
+werkzeug
+pyPDF2
+datetime
+random
+
